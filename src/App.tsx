@@ -10,7 +10,7 @@ enum ColorEnum {
 const matrix: Array<Array<ColorEnum>> = [
     [ColorEnum.YELLOW, ColorEnum.YELLOW, ColorEnum.YELLOW],
     [ColorEnum.RED, ColorEnum.YELLOW, ColorEnum.YELLOW],
-    [ColorEnum.YELLOW, ColorEnum.RED, ColorEnum.YELLOW],
+    [ColorEnum.YELLOW, ColorEnum.YELLOW, ColorEnum.YELLOW],
 ]
 
 function App() {
