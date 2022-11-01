@@ -8,7 +8,7 @@ enum ColorEnum {
 }
 
 const matrix: Array<Array<ColorEnum>> = [
-    [ColorEnum.YELLOW, ColorEnum.GREEN, ColorEnum.YELLOW],
+    [ColorEnum.GREEN, ColorEnum.GREEN, ColorEnum.YELLOW],
     [ColorEnum.GREEN, ColorEnum.RED, ColorEnum.YELLOW],
     [ColorEnum.GREEN, ColorEnum.YELLOW, ColorEnum.YELLOW],
 ]
