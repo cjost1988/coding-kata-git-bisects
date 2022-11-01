@@ -8,9 +8,9 @@ enum ColorEnum {
 }
 
 const matrix: Array<Array<ColorEnum>> = [
-    [ColorEnum.GREEN, ColorEnum.GREEN, ColorEnum.YELLOW],
+    [ColorEnum.RED, ColorEnum.GREEN, ColorEnum.YELLOW],
     [ColorEnum.GREEN, ColorEnum.RED, ColorEnum.GREEN],
-    [ColorEnum.GREEN, ColorEnum.YELLOW, ColorEnum.YELLOW],
+    [ColorEnum.RED, ColorEnum.YELLOW, ColorEnum.YELLOW],
 ]
 
 function App() {
